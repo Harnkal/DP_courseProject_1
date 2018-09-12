@@ -1,28 +1,28 @@
-state,abrev,capital,latitude,longitude,page,icon
-Acre,AC,Rio Branco,-9.97472222,-67.81000000,https://en.wikipedia.org/wiki/Acre_(state),C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\AC.png
-Alagoas,AL,Maceió,-9.66583333,-35.73527778,https://en.wikipedia.org/wiki/Alagoas,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\AL.png
-Amapá,AP,Macapá,0.03888889,-51.06638889,https://en.wikipedia.org/wiki/Amap%C3%A1,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\AP.png
-Amazonas,AM,Manaus,-3.10194444,-60.02500000,https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state),C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\AM.png
-Bahia,BA,Salvador,-12.97111111,-38.51083333,https://en.wikipedia.org/wiki/Bahia,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\BA.png
-Ceará,CE,Fortaleza,-3.71722222,-38.54305556,https://en.wikipedia.org/wiki/Cear%C3%A1,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\CE.png
-Distrito Federal,DF,Brasília,-15.77972222,-47.92972222,https://en.wikipedia.org/wiki/Federal_District_(Brazil),C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\DF.png
-Espirito Santo,ES,Vitória,-20.31944444,-40.33777778,https://en.wikipedia.org/wiki/Esp%C3%ADrito_Santo,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\ES.png
-Goiás,GO,Goiânia,-16.67861111,-49.25388889,https://en.wikipedia.org/wiki/Goi%C3%A1s,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\GO.png
-Maranhão,MA,São Luís,-2.52972222,-44.30277778,https://en.wikipedia.org/wiki/Maranh%C3%A3o,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\MA.png
-Mato Grosso,MT,Cuiabá,-15.59611111,-56.09944444,https://en.wikipedia.org/wiki/Mato_Grosso,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\MT.png
-Mato Grosso do Sul,MS,Campo Grande,-20.44277778,-54.64638889,https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\MS.png
-Minas Gerais,MG,Belo Horizonte,-19.92083333,-43.93777778,https://en.wikipedia.org/wiki/Minas_Gerais,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\MG.png
-Para,PA,Belém,-1.45583333,-48.50444444,https://en.wikipedia.org/wiki/Par%C3%A1,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\PA.png
-Paraíba,PB,João Pessoa,-7.11500000,-34.86305556,https://en.wikipedia.org/wiki/Para%C3%ADba,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\PB.png
-Paraná,PR,Curitiba,-25.42777778,-49.27305556,https://en.wikipedia.org/wiki/Paran%C3%A1_(state),C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\PR.png
-Pernambuco,PE,Recife,-8.05388889,-34.88111111,https://en.wikipedia.org/wiki/Pernambuco,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\PE.png
-Piauí,PI,Teresina,-5.08916667,-42.80194444,https://en.wikipedia.org/wiki/Piau%C3%AD,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\PI.png
-Rio de Janeiro,RJ,Rio de Janeiro,-22.90277778,-63.90388889,https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state),C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\RJ.png
-Rio Grande do Norte,RN,Natal,-5.79500000,-43.20750000,https://en.wikipedia.org/wiki/Rio_Grande_do_Norte,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\RN.png
-Rio Grande do Sul,RS,Porto Alegre,-30.03305556,-51.23000000,https://en.wikipedia.org/wiki/Rio_Grande_do_Sul,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\RS.png
-Rondônia,RO,Porto Velho,-8.76194444,-35.20944444,https://en.wikipedia.org/wiki/Rond%C3%B4nia,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\RO.png
-Roraima,RR,Boa Vista,2.81972222,-60.67333333,https://en.wikipedia.org/wiki/Roraima,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\RR.png
-Santa Catarina,SC,Florianópolis,-27.59666667,-48.54916667,https://en.wikipedia.org/wiki/Santa_Catarina_(state),C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\SC.png
-São Paulo,SP,São Paulo,-23.54750000,-46.63611111,https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state),C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\SP.png
-Sergipe,SE,Aracaju,-10.91111111,-37.07166667,https://en.wikipedia.org/wiki/Sergipe,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\SE.png
-Tocantins,TO,Palmas,-10.21277778,-48.36027778,https://en.wikipedia.org/wiki/Tocantins,C:\Users\rafae\Desktop\Data Science\Coursera\Classes\09 - Developing Data Products\Week 2\04 - DP_courseProject_1\data\icons\TO.png
+state,abrev,capital,latitude,longitude,page
+Acre,AC,Rio Branco,-9.97472222,-67.81,https://en.wikipedia.org/wiki/Acre_(state)
+Alagoas,AL,Maceió,-9.66583333,-35.73527778,https://en.wikipedia.org/wiki/Alagoas
+Amapá,AP,Macapá,0.03888889,-51.06638889,https://en.wikipedia.org/wiki/Amap%C3%A1
+Amazonas,AM,Manaus,-3.10194444,-60.025,https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)
+Bahia,BA,Salvador,-12.97111111,-38.51083333,https://en.wikipedia.org/wiki/Bahia
+Ceará,CE,Fortaleza,-3.71722222,-38.54305556,https://en.wikipedia.org/wiki/Cear%C3%A1
+Distrito Federal,DF,Brasília,-15.77972222,-47.92972222,https://en.wikipedia.org/wiki/Federal_District_(Brazil)
+Espirito Santo,ES,Vitória,-20.31944444,-40.33777778,https://en.wikipedia.org/wiki/Esp%C3%ADrito_Santo
+Goiás,GO,Goiânia,-16.67861111,-49.25388889,https://en.wikipedia.org/wiki/Goi%C3%A1s
+Maranhão,MA,São Luís,-2.52972222,-44.30277778,https://en.wikipedia.org/wiki/Maranh%C3%A3o
+Mato Grosso,MT,Cuiabá,-15.59611111,-56.09944444,https://en.wikipedia.org/wiki/Mato_Grosso
+Mato Grosso do Sul,MS,Campo Grande,-20.44277778,-54.64638889,https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul
+Minas Gerais,MG,Belo Horizonte,-19.92083333,-43.93777778,https://en.wikipedia.org/wiki/Minas_Gerais
+Para,PA,Belém,-1.45583333,-48.50444444,https://en.wikipedia.org/wiki/Par%C3%A1
+Paraíba,PB,João Pessoa,-7.115,-34.86305556,https://en.wikipedia.org/wiki/Para%C3%ADba
+Paraná,PR,Curitiba,-25.42777778,-49.27305556,https://en.wikipedia.org/wiki/Paran%C3%A1_(state)
+Pernambuco,PE,Recife,-8.05388889,-34.88111111,https://en.wikipedia.org/wiki/Pernambuco
+Piauí,PI,Teresina,-5.08916667,-42.80194444,https://en.wikipedia.org/wiki/Piau%C3%AD
+Rio de Janeiro,RJ,Rio de Janeiro,-22.90277778,-43.182077,https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)
+Rio Grande do Norte,RN,Natal,-5.795,-35.204327,https://en.wikipedia.org/wiki/Rio_Grande_do_Norte
+Rio Grande do Sul,RS,Porto Alegre,-30.03305556,-51.23,https://en.wikipedia.org/wiki/Rio_Grande_do_Sul
+Rondônia,RO,Porto Velho,-8.76194444,-63.90306,https://en.wikipedia.org/wiki/Rond%C3%B4nia
+Roraima,RR,Boa Vista,2.81972222,-60.67333333,https://en.wikipedia.org/wiki/Roraima
+Santa Catarina,SC,Florianópolis,-27.59666667,-48.54916667,https://en.wikipedia.org/wiki/Santa_Catarina_(state)
+São Paulo,SP,São Paulo,-23.5475,-46.63611111,https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)
+Sergipe,SE,Aracaju,-10.91111111,-37.07166667,https://en.wikipedia.org/wiki/Sergipe
+Tocantins,TO,Palmas,-10.21277778,-48.36027778,https://en.wikipedia.org/wiki/Tocantins

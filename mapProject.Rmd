@@ -1,0 +1,39 @@
+---
+title: "Course Project - Brazilian Capitals"
+author: "Silva, Rafael"
+date: "September 11, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+I gathered some information about the states of my country, the objective of this document is to display them in a map done using leaflet. The chunk below shows the list of packages used to create this document, as well as the function used to read the dataset into R.
+```{r, message=FALSE}
+library(leaflet)
+data <- read.csv("data/brazilianStates.csv")
+head(data)
+```
+
+This document was created in:
+```{r}
+Sys.Date()
+```
+
+## Map
+
+```{r, echo=FALSE}
+popup <- with(data, paste("<a href='", page, "'>", state, 
+                        "<br>Abreviation: ", abrev, 
+                        "<br>Capital: ", capital, sep = ""))
+
+df <- data[,4:5]
+
+df %>%
+    leaflet() %>%
+    addTiles() %>%
+    addMarkers(popup = popup)
+```
