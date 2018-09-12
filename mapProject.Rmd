@@ -1,7 +1,7 @@
 ---
 title: "Course Project - Brazilian Capitals"
 author: "Silva, Rafael"
-date: "September 11, 2018"
+date: "September 12, 2018"
 output: html_document
 ---
 
@@ -26,14 +26,17 @@ Sys.Date()
 ## Map
 
 ```{r, echo=FALSE}
+df <- data[,4:5]
+
 popup <- with(data, paste("<a href='", page, "'>", state, 
                         "<br>Abreviation: ", abrev, 
                         "<br>Capital: ", capital, sep = ""))
 
-df <- data[,4:5]
+icon <- makeIcon("data/icon.png", iconWidth = 37.89, iconHeight = 49.32, 
+                 iconAnchorX = 42.1/2, iconAnchorY = 54.8)
 
 df %>%
     leaflet() %>%
     addTiles() %>%
-    addMarkers(popup = popup)
+    addMarkers(popup = popup, icon = icon)
 ```
